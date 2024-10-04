@@ -21,7 +21,7 @@
     • Scouter
 #
 ## • 💻Program
-* [V.19.01 (Warm Up)](V.19.01.py)
+* [V.19.01 (ACT Warm Up)](V.19.01.py)
 
 * [V.20.01 (Main)](V.20.01.py)
 
