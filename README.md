@@ -2,9 +2,12 @@
 ## [🤖MakeX Challege 2024](https://www.youtube.com/watch?v=AydWgBX8IwI&t=6s)
 * It is a robot competition format that promotes learning in the form of STEM education in the 21st century that is more than just a robot competition to win, but also inspires being a creator or inventor, problem solving and teamwork.
 #
-## • 🏆Achievements 2024
-* 🥉Second - Runner Up : Warm UP MakeX 2024 ACT MakeX Robotics Invitation 2024
-* 🥈First - Runner Up :  ACS Lifelong Learning & Education Expo 2024 : Royal Trophy 2024 
+## • 🏆Achievements 2023 - 2024 | Computer - Science 6 th , Assumption College Sriracha
+
+* 🥈 First - Runner Up : 2023 MakeX Thailand National Championship Competition
+* 🏆 Champion : ACR Academic day : 60th Anniversary Of ACR : Royal Trophy 2023 
+* 🥉 Second - Runner Up : Warm UP MakeX 2024 ACT MakeX Robotics Invitation 2024
+* 🥈 First - Runner Up :  ACS Lifelong Learning & Education Expo 2024 : Royal Trophy 2024 
 
 #
 ## • 👯Member Of Cs6th 2024
