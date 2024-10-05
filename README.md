@@ -23,14 +23,14 @@
 
      • Scout
 #
-## • 💻Program
+## • 💻 Program
 * [V.19.01 (ACT Warm Up)](V.19.01.py)
 
 * [V.20.01 (Main)](V.20.01.py)
 
 #
 
-## • 🪄Model from Cs6th
+## • 🪄 Model from Cs6th
 * [Battery Box](Model/Battery%20Box.stl)
 * [Belt01](Model/Belt01.svg)
 * [Belt02](Model/Belt02.svg)
@@ -44,7 +44,7 @@
 * [China](Model/MakeX%20China.stl)
 #
 
-## • 🖼️Photo
+## • 🖼️ Photo
 
 ><a href="Photo/Warmup.md" target="_blank">Warm UP MakeX 2024 ACT MakeX Robotics Invitation 2024</a>
 
