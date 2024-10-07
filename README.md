@@ -31,7 +31,7 @@
 #
 
 ## • 🪄 Model from Cs6th
-* [Battery Box](Model/Battery%20Box.stl)
+* [Battery Box(Low Weight)](Model/Battery%20Box.stl)
 * [Belt01](Model/Belt01.svg)
 * [Belt02](Model/Belt02.svg)
 * [Gear](Model/Gear.stl)
