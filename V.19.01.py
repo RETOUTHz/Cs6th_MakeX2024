@@ -10,16 +10,6 @@ ________/\\\\\\\\\_________________________/\\\\\_________________/\\\_________
        ____\////\\\\\\\\\__/\\\\\\\\\\__\///\\\\\\\\\/______\//\\\\\____\/\\\___\/\\\_ 
         _______\/////////__\//////////_____\/////////_________\/////_____\///____\///__
 
-        #พ่อน้องออนิว
-        #แม่น้องออนิว
-        #รถเดิมเดิมให้กูเดินดีกว่า
-        #สัมศรีหวานเจี๊ยบ
-        #freedom888
-        #หมูไม่ขาดละหมาดไม่เคย
-        #Cs 'SEX' th
-        #หมูอยู่ในกระเพาอันเราะอยู่ในใจ
-
-        © 2024 Pollayaaa, All Rights Reserved Coded With ❤️ By Pollayaaa
 """
 #import
 import novapi
@@ -55,7 +45,7 @@ sv = {
     "s6": smartservo_class("M6","INDEX1")
 }
 
-#Roblox x Poolvila
+#Roblox x Poolvila 
 feed = False
 motor1 = 100
 motor2 = 100
@@ -80,54 +70,54 @@ class joys:
  def control ():
     global motor1 ,motor2 ,motor3,bl,shooter_point1_angle_servo,shooter_point2_angle_servo
 
-    if gamepad.is_key_pressed("N1"):
+    if gamepad.is_key_pressed("N1"): #open collect disc
         manual.feed()
 
-    elif gamepad.is_key_pressed("N2"):
+    elif gamepad.is_key_pressed("N2"): # reload disc
         power_expand_board.set_power("DC5", -100)
 
-    elif gamepad.is_key_pressed("N3"):
+    elif gamepad.is_key_pressed("N3"): # -reload disc
         power_expand_board.set_power("DC5", 100)
 
-    elif gamepad.is_key_pressed("N4"):
+    elif gamepad.is_key_pressed("N4"):  # open collect disc
         manual.feed()
 
-    elif gamepad.is_key_pressed("L1"):
+    elif gamepad.is_key_pressed("L1"): # stop all motors
         power_expand_board.stop("DC1")
         power_expand_board.stop("DC2")
         power_expand_board.stop("DC3")
         power_expand_board.stop("DC4")
 
-    elif gamepad.is_key_pressed("R1"):
+    elif gamepad.is_key_pressed("R1"): # open blushless
          power_expand_board.set_power("BL1", bl)
          power_expand_board.set_power("BL2", bl)
 
-    elif gamepad.is_key_pressed("L2"):
+    elif gamepad.is_key_pressed("L2"): # -open collect disc
         power_expand_board.set_power("DC1", motor1)
         power_expand_board.set_power("DC2", motor2)
         power_expand_board.set_power("DC3", motor3)
         power_expand_board.set_power("DC4", motor4)
 
-    elif gamepad.is_key_pressed("R2"):
+    elif gamepad.is_key_pressed("R2"): # stop all blushless
          power_expand_board.stop("BL1")
          power_expand_board.stop("BL2")
 
-    elif gamepad.is_key_pressed("Up"):
+    elif gamepad.is_key_pressed("Up"): # lift up
          power_expand_board.set_power("DC7",80)
 
-    elif gamepad.is_key_pressed("Down"):
+    elif gamepad.is_key_pressed("Down"): #lift down
          power_expand_board.set_power("DC7",-80)
 
-    elif gamepad.is_key_pressed("Left"):
+    elif gamepad.is_key_pressed("Left"): #gripper on
          power_expand_board.set_power("DC8",50)
     
-    elif gamepad.is_key_pressed("Right"):
+    elif gamepad.is_key_pressed("Right"): #gripper off
          power_expand_board.set_power("DC8",-50)
     
-    elif gamepad.is_key_pressed("+"):
+    elif gamepad.is_key_pressed("+"): #shoot signs
         sv["s6"].move_to(shooter_point1_angle_servo,25)
 
-    elif gamepad.is_key_pressed("≡"):
+    elif gamepad.is_key_pressed("≡"): #shoot pins
         sv["s6"].move_to(shooter_point2_angle_servo,25)
 
     else:
