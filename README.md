@@ -24,9 +24,9 @@
      • Scout
 #
 ## • 💻 Program
-* [V.19.01 (ACT Warm Up)](V.19.01.py)
+* [V.19.01 (ACT Warm Up)](Program/V.19.01.py)
 
-* [V.20.01 (Main)](V.20.01.py)
+* [V.20.01 (Main)](Program/V.20.01.py)
 
 #
 
