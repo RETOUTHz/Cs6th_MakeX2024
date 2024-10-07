@@ -1,0 +1,12 @@
+## • 🪄 Model from Cs6th
+* [Battery Box](Model/Battery%20Box.stl)
+* [Belt01](Model/Belt01.svg)
+* [Belt02](Model/Belt02.svg)
+* [Gear](Model/Gear.stl)
+* [Gripper](Model/Gripper.stl)
+* [Storage01](Model/Storage01.stl)
+* [Storage02](Model/Storage02.stl)
+* [Storage03](Model/Storage03.stl)
+* [Storage04](Model/Storage04.stl)
+* [Storage05](Model/Storage05.stl)
+* [China](Model/MakeX%20China.stl)
