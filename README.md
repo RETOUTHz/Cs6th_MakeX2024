@@ -6,7 +6,7 @@
 
 * 🥈 First - Runner Up : 2023 MakeX Thailand National Championship Competition
 * 🏆 Champion : ACR Academic day : 60th Anniversary Of ACR : Royal Trophy 2023 
-* 🥉 Second - Runner Up : 2024 ACT MakeX Robotics Invitation 2024 : Warm Up
+* 🥉 Second - Runner Up : 2024 ACT MakeX Robotics Invitation 2024 : Warm Up 2024
 * 🥈 First - Runner Up :  ACS Lifelong Learning & Education Expo 2024 : Royal Trophy 2024 
 
 #
