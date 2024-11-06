@@ -59,16 +59,4 @@
    ![](https://scontent.futp2-1.fna.fbcdn.net/v/t1.15752-9/462572848_1520287882705869_7445210629760724962_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=iUcNE-IvpREQ7kNvgEhsTa-&_nc_zt=23&_nc_ht=scontent.futp2-1.fna&oh=03_Q7cD1QEgPK7wdC2h9J6U31Ko-Xh5Ocgjcjp2oQQ8rSA20Uxzjg&oe=6752DD25)
 #
 
-## • 🖼️ Photo
 
-><a href="Photo/Warmup.md" target="_blank">Warm UP MakeX 2024 ACT MakeX Robotics Invitation 2024</a>
-
-><a href="Photo/Point1.md" target="_blank">2024 MakeX Thailand Robotics Competition Point Race#1</a>
-
-><a href="Photo/Asian.md" target="_blank">2024 World Robot Contest MakeX Asian Championships</a>
-
-><a href="Photo/Point2.md" target="_blank">2024 MakeX Thailand Robotics Competition Point Race#2</a>
-
-><a href="Photo/Point3.md" target="_blank">2024 MakeX Thailand Robotics Competition Point Race#3</a>
-
-><a href="Photo/National.md" target="_blank">2024 MakeX Thailand National Championship Competition</a>
